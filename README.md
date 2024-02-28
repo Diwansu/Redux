@@ -1,3 +1,5 @@
+Deployed link : https://gentle-daifuku-dc0878.netlify.app
+
 ![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 ### Learning Goals:
